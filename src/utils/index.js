@@ -16,8 +16,7 @@ const os = require("os");
 
 const getMimeType = (ext_name) => {
   let mimeType = mimeTypes[ext_name];
-  
-  if(!mimeType) return "application/octet-stream";
+  if(!mimeType) return null;
   return mimeType
 }
 
