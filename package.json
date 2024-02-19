@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "local-serve": "/src/bin/bin.js"
+  },
   "author": "Jazelle Cruz",
   "license": "ISC",
   "dependencies": {
