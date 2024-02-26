@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-let initialize = require("../lib/server");
+let localServer = require("../lib/server");
 
 let args = process.argv.slice(2);
 
@@ -27,7 +27,7 @@ args.forEach(arg => {
 
 userOptions = Object.assign(defaultOptions, userOptions);
 
-initialize(userOptions);
+localServer(userOptions);
 
 
 
