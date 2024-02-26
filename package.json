@@ -2,7 +2,7 @@
   "name": "local-server",
   "version": "1.0.0",
   "description": "A development server for static html,css, and js files.",
-  "main": "server.js",
+  "main": "lib/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,7 @@
   "author": "Jazelle Cruz",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "nodemon": "^3.0.3"
   }
 }
