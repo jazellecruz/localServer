@@ -12,7 +12,6 @@
   "author": "Jazelle Cruz",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2",
     "nodemon": "^3.0.3"
   }
 }
