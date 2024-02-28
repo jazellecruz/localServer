@@ -1,7 +1,7 @@
 {
   "name": "@jazelle/local-server",
   "version": "1.0.0",
-  "description": "A http server for serving static html, css, and js files locally.",
+  "description": "A development http server for serving static html, css, and js files locally across a network.",
   "exports": "./lib/index.js",
   "main": "./lib/server.js",
   "scripts": {
