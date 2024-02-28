@@ -1,5 +1,5 @@
 {
-  "name": "local-server",
+  "name": "@jzcz/local-server",
   "version": "1.0.0",
   "description": "A http server for serving static html, css, and js files locally.",
   "exports": "./lib/index.js",
