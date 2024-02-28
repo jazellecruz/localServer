@@ -1,17 +1,43 @@
 {
   "name": "local-server",
   "version": "1.0.0",
-  "description": "A development server for static html,css, and js files.",
-  "main": "lib/server.js",
+  "description": "A http server for serving static html, css, and js files locally.",
+  "exports": "./lib/index.js",
+  "main": "./lib/server.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "localserver": "/bin/bin.js"
   },
+  "files": [
+    "bin",
+    "lib",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
   "author": "Jazelle Cruz",
-  "license": "ISC",
-  "dependencies": {
-    "nodemon": "^3.0.3"
-  }
+  "license": "MIT",
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "server",
+    "web development",
+    "web",
+    "development",
+    "local-server",
+    "local",
+    "tool",
+    "http",
+    "utility",
+    "npm",
+    "front-end",
+    "cli",
+    "command-line",
+    "dev",
+    "node"
+  ]
 }
