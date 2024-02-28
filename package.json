@@ -1,5 +1,5 @@
 {
-  "name": "@jazelle/local-server",
+  "name": "@jcrz/local-server",
   "version": "1.0.0",
   "description": "A development http server for serving static html, css, and js files locally across a network.",
   "exports": "./lib/index.js",
