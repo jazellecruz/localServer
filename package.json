@@ -4,7 +4,6 @@
   "description": "A http server for serving static html, css, and js files locally.",
   "exports": "./lib/index.js",
   "main": "./lib/server.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
