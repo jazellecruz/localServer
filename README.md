@@ -11,7 +11,7 @@
 You'll need Node.js and NPM for this.
 
 ```sh
-npm i local-server
+npm i @jcrz/local-server
 ```
 
 Note: *Make sure node is initialized.*
