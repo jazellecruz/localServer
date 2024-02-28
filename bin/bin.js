@@ -24,7 +24,6 @@ args.forEach(arg => {
   }
 });
 
-
 userOptions = Object.assign(defaultOptions, userOptions);
 
 localServer(userOptions);
