@@ -1,6 +1,6 @@
 # LocalServer 
 
-[LocalServer]() is featherlight development HTTP server to serve your static files locally across your network.
+[LocalServer](https://www.npmjs.com/package/@jcrz/local-server) is featherlight development HTTP server to serve your static files locally across your network.
 
 * Allows your files to be accessed by any device on your network.
 * Light and minimal as it does not rely on any dependencies.
